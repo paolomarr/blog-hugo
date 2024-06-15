@@ -1,0 +1,33 @@
+baseURL: http://paolomarchetti.my.to/blog
+languageCode: 'it-it'
+title: Paolo Marchetti
+theme: "nightfall"
+params:
+  user: "Paolo"
+  author:
+    name: "Paolo Marchetti"
+    email: "paolo.marchetti.it@gmail.com"
+    social:
+      - name: "github"
+        url: "github.com/paolomarr"
+        icon: "fa-brands fa-github"
+        target: "_blank"
+        aria: "GitHub Profile"
+      - name: "email"
+        url: "mailto:paolo.marchetti.it@gmail.com"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/paolo-marchetti-32678a42/"
+menu:
+  header:
+  - name: Blog
+    weight: 0
+    url: "/blog"    
+
+languages:
+  it:
+    languageCode: "it-IT"
+    weight: 0
+  en:
+    languageCode: "en-US"
+    weight: 1
+    
