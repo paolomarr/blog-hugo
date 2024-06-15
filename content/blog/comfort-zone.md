@@ -1,8 +1,13 @@
 ---
 title: "Comfort zone"
 date: "2020-09-19"
+summary: |
+    Click. Il lucchetto si chiuse agevolmente, grazie alle due gocce di lubrificante che gli aveva dato nel pomeriggio.  
+    Il suo presidio poteva cominciare.
+
 tags:
     - racconti
+    - diario
 ---
 
 Click. Il lucchetto si chiuse agevolmente, grazie alle due gocce di lubrificante che gli aveva dato nel pomeriggio. Il suo presidio poteva cominciare.

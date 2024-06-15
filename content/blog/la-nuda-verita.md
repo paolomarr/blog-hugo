@@ -8,6 +8,7 @@ summary: |
 tags:
     - incompleto
     - racconti
+    - attivismo
 ---
 
 ## Lontano

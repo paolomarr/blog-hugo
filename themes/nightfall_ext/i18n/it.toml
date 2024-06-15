@@ -1,0 +1,36 @@
+[not_found]
+    other = "NON TROVATO"
+
+[not_found_desc]
+    other = "Questa pagina non esiste..."
+
+[home]
+    other = "Home"
+
+[published]
+    other = "creato"
+
+[reading_time]
+    other = "tempo di lettura"
+
+[reading_time_desc]
+  one = "1 minuto"
+  other = "{{ .Count }} minuti"
+
+[authors]
+  other = "autori"
+
+[tags]
+  other = "tags"
+
+[categories]
+  other = "categorie"
+
+[and]
+  other = "e"
+
+[powered_by]
+  other = "Creato con"
+
+[theme]
+  other = "tema"

@@ -4,6 +4,7 @@ date: "2020-09-18"
 published: false
 tags:
     - appunti
+    - attivismo
 ---
 
 Paura

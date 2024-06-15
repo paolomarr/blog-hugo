@@ -2,6 +2,9 @@
 title: "Perché lo hai fatto venerdì?"
 date: 2020-09-21
 published: false
+tags:
+    - appunti
+    - attivismo
 ---
 La caratteristica di XR che forse più mi ha colpito fin dal primo momento, che lo distingue dalla maggior parte degli altri movimenti e associazioni ambientaliste, è la modalità di azione, basata sulla disobbedienza civile e l'azione diretta nonviolenta. 
 
