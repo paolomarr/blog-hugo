@@ -1,5 +1,5 @@
 ---
 aliases: ["posts", "articles", "blog", "showcase", "docs"]
-title: "Blog"
+title: "Storie"
 author: "Paolo"
 ---

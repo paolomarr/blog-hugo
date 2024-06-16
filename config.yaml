@@ -1,7 +1,9 @@
 baseURL: http://paolomarchetti.my.to/blog
-languageCode: 'it-it'
+defaultContentLanguage: "it"
 title: Paolo Marchetti
-theme: "nightfall"
+theme: 
+- "nightfall_ext"
+- "nightfall"
 params:
   user: "Paolo"
   author:
@@ -26,8 +28,12 @@ menu:
 languages:
   it:
     languageCode: "it-IT"
-    weight: 0
+    weight: 1
   en:
     languageCode: "en-US"
-    weight: 1
-    
+    weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

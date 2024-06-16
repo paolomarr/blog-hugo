@@ -1,5 +1,5 @@
 ---
-title: "1260 centimetri cubi"
+title: "1260 cm<sup>3</sup>"
 date: "2020-12-11"
 summary: |
     In questo volume, decine di migliaia di anni di evoluzione hanno permesso all'Homo Sapiens di avere l'intelligenza e le capacità cognitive che oggi possiede.
