@@ -2,8 +2,6 @@
 title: "La nuda verità"
 date: 2020-10-12
 summary: |
-    Il primo giorno di Ribellione se ne stava andando.  
-    Incastrato in ufficio, faceva fatica a concentrarsi e a non pensare a quanto gli sarebbe piaciuto avere notizie di come stava andando la prima azione.  
     Piazza San Silvestro, diceva il programma ufficiale sulla pagina del sito che lui stesso aveva dato una mano a pubblicare. Informazioni più riservate, di cui lui aveva solo pochi frammenti, parlavano di uno spostamento improvviso verso piazza del Parlamento. Per fare cosa, per quale azione di disobbedienza civile, non sapeva...
 tags:
     - incompleto
