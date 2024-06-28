@@ -1,0 +1,7 @@
+.tagList {
+    font-size: smaller;
+    display: flex;
+    & .tagListItem {
+        margin-inline-end: 5px;
+    }
+}

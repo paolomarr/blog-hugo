@@ -16,11 +16,11 @@
     {{ end }}
 
     <div>
-        {{ range (where .Pages "published" "ne" "false") }}
+        {{ range .Pages }}
 
-        <a class="postListLink" href="{{ .Permalink }}">
-            <!-- [html-validate-disable-next prefer-native-element] -->
-            <div class="postListItem" role="listitem">
+        <div class="postListItem" role="listitem">
+        <!-- [html-validate-disable-next prefer-native-element] -->
+            <a class="postListLink" href="{{ .Permalink }}">
                 <div class="postHeader">
                     <span class="postTitle">{{ .Title | markdownify }}</span>
                     {{ $formattedDate := .Date.Format "2006-01-02" }}
@@ -29,8 +29,15 @@
                 <div class="postExcerpt">
                     <p>{{ .Summary }}</p>
                 </div>
+            </a>
+            {{ with .GetTerms "tags" }}
+            <div class="tagList">
+                {{- range $index, $el := . -}}
+                    <div class="tagListItem"><a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a></div>
+                {{- end -}}
             </div>
-        </a>
+            {{ end }}
+        </div>
 
 
         {{end}}
