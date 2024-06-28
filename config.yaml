@@ -11,7 +11,7 @@ params:
     email: "paolo.marchetti.it@gmail.com"
   social:
     - name: "github"
-      url: "github.com/paolomarr"
+      url: "https://github.com/paolomarr"
       icon: "fa-brands fa-github fa-xl"
       target: "_blank"
       aria: "GitHub Profile"
