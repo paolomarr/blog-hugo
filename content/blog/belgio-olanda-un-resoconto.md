@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Belgio e Olanda in bici: resoconto di viaggio"
-date:
-published: false
+date: "2020-08-01"
 tags:
     - incompiuto
 ---

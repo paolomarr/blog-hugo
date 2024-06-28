@@ -2,7 +2,7 @@
 title: "Ambientalisti del cazzo"
 date: 2021-05-20
 summary: "Abbiamo cose più importanti a cui pensare."
-published: false
+draft: true
 tags:
     - pensieri
     - attivismo

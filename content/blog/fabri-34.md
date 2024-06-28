@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Fabri, trentaquattro."
 date: 2021-07-08
-published: false
 tags:
 - auguri
 ---

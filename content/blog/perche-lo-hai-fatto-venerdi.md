@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Perché lo hai fatto venerdì?"
 date: 2020-09-21
-published: false
 tags:
     - appunti
     - attivismo

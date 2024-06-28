@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "No signora, non è così"
 date: 2021-01-28
-published: false
 tags:
 - appunti
 - attivismo

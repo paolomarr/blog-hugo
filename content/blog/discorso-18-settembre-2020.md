@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Discorso 18 settembre 2020"
 date: "2020-09-18"
-published: false
 tags:
     - appunti
     - attivismo

@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Natale 2023"
 date: "2023-12-21"
-published: false
 tags:
     - auguri
 ---

@@ -1,7 +1,7 @@
 ---
+draft: true
 title: "Natale 2020"
 date: "2020-12-21"
-published: false
 tags:
     - auguri
 ---

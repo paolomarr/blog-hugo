@@ -1,7 +1,7 @@
 ---
-title: "Fabri, trentaqsei."
+draft: true
+title: "Fabri, trentasei."
 date: 2023-07-08
-published: false
 tags:
 - auguri
 ---

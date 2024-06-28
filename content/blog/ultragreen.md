@@ -1,7 +1,7 @@
 ---
-title: "[BOZZA] Ultragreen"
+draft: true
+title: "Ultragreen"
 date: 2021-04-18
-published: false
 tags:
 - distopia
 - racconti
