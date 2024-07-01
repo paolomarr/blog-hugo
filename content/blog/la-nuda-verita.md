@@ -1,5 +1,5 @@
 ---
-draft: trues
+draft: true
 title: "La nuda verità"
 date: 2020-10-12
 summary: |
