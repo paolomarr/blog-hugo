@@ -47,13 +47,38 @@ Partenza un po' meno scattante,
 Ultimo giorno, gita oltre il fiume 
 Rientro con visita al MAAT e al Gulbenkian. 
 
+Distanze a piedi importanti: superati i 30 mila passi! 
+
 ## 15 luglio - arrivo a Siviglia 
 
 Partenza prestissimo da Lisbona (con annessa inculata taxi), arrivo a Siviglia in mattinata. 
 
-Giro zaino a spalle con discreta caldazza. Prima visita programmata a casa privata. Riposino in hotel per riprendere il giro nel tardo pomeriggio. Cena campale in casa e uscitina serale 
+Giro zaino a spalle con discreta caldazza. Prima visita programmata a Casa de Salinas. Riposino in hotel per riprendere il giro nel tardo pomeriggio. Cena campale in casa e uscitina serale. 
 
-## 16 luglio - una casa ancora più bella, e la cattedrale
+Si è camminato un sacco, toccata quota 28 mila passi. 
 
-## 17 luglio
+## 16 luglio - la cattedrale e una casa ancora più bella
+
+Appuntamento obbligato della visita alla cattedrale, con salita alla torre della Giralda. Pranzo a casa con riposino, poi visita pomeridiana a Casa de las Dueñas. 
+In serata cena alla Arabesca, locale a tema marocchino/medio orientale. 
+
+Quota passi: 27 mila abbondanti, possiamo ritenerci soddisfatte. 
+
+## 17 luglio - ultime visite 
+
+Royal Alcázar 
+Casa dos Pilatos 
+Cena in Triana (così così) 
+Cocktail El Pintón e rientro a casetta.
+Anche oggi ci siamo difesi con la quota passi: i podometri segnano concordi 28 mila. 
+
+## 18 luglio - fine dei giochi 
+
+Risveglio, colazione, zaino pronto. 
+Chiesa della Magdalena (finalmente!). Strana, con dipinti e oggetti d'arte abbastanza "laici" (es. Dipinto battaglia di Lepanto). 
+
+Riusciamo a riprendere lo zaino, nonostante l'hotel cerchi di sequestrarcelo (codice di ingresso disattivato). 
+Bus EA con largo anticipo, cazzeggio in aeroporto. Un pensierino per il Poli, che ci salva la cena con invito da lui insieme ai Marzots. 
+
+
 
