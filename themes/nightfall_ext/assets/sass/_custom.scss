@@ -5,3 +5,10 @@
         margin-inline-end: 5px;
     }
 }
+
+.postListItem.draft {
+    // background-color: #4f4f4f;
+    .postTitle, .postDate, .postExcerpt {
+        color: #888888;
+    }
+}

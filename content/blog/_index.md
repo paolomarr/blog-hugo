@@ -1,3 +1,3 @@
 ---
-title: Storie
+title: Tutte le storie
 ---

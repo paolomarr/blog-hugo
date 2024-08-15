@@ -18,7 +18,7 @@
     <div>
         {{ range .Pages }}
 
-        <div class="postListItem" role="listitem">
+        <div class="postListItem {{ if .Draft }}draft{{ end }}" role="listitem">
         <!-- [html-validate-disable-next prefer-native-element] -->
             <a class="postListLink" href="{{ .Permalink }}">
                 <div class="postHeader">
