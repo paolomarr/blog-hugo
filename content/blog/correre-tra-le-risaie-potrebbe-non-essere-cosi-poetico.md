@@ -1,5 +1,6 @@
 ---
-title: "Correre tra le risaie (potrebbe non essere cosi poetico)"
+title: "Correre tra le risaie"
+subtitle: "(potrebbe non essere cosi poetico)"
 date: 2024-08-15T11:24:49+02:00
 draft: true
 summary: |

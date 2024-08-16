@@ -22,9 +22,18 @@
         <!-- [html-validate-disable-next prefer-native-element] -->
             <a class="postListLink" href="{{ .Permalink }}">
                 <div class="postHeader">
-                    <span class="postTitle">{{ .Title | markdownify }}</span>
                     {{ $formattedDate := .Date.Format "2006-01-02" }}
-                    <time class="postDate" datetime="{{ $formattedDate }}">{{ .Date | time.Format ":date_long" }}</time>
+                    <div class="row">
+                        <div class="col-9">
+                            <div class="postTitle">{{ .Title | markdownify }}</div>
+                            {{ with .Param "subtitle"}}
+                            <div class="postTitle subtitle">{{ . | markdownify }}</div>
+                            {{end}}
+                        </div>
+                        <div class="col-3">
+                            <time class="postDate" datetime="{{ $formattedDate }}">{{ .Date | time.Format ":date_short" }}</time>
+                        </div>
+                    </div>
                 </div>
                 <div class="postExcerpt">
                     <p>{{ .Summary }}</p>

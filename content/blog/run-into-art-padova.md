@@ -1,5 +1,6 @@
 ---
-title: "Run Into Art: maratona di Padova"
+title: "Run Into Art"
+subtitle: "(maratona di Padova)"
 date: 2024-08-15T10:55:55+02:00
 draft: true
 summary: |

@@ -5,8 +5,8 @@
 {{ define "main" }}
 <div class="postWrapper">
     <h1>{{ .Title | markdownify }}</h1>
-    {{ if .Description}}
-    	<p>{{.Description}}</p>
+    {{ with .Param "subtitle" }}
+    	<h4 class="subtitle">{{ . | markdownify }}</h4>
     {{ end }}
     {{ if .Params.showMetadata | default true }}
     <section class="postMetadata">

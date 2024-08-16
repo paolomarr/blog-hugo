@@ -1,5 +1,6 @@
 ---
-title: "Azzorre, Lisbona, Siviglia. Luglio 2024" 
+title: "Azzorre, Lisbona, Siviglia"
+subtitle: "Estate 2024" 
 date: 2024-07-16
 draft: true
 tags:
