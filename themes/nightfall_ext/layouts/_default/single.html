@@ -10,7 +10,7 @@
     {{ end }}
     {{ if .Params.showMetadata | default true }}
     <section class="postMetadata">
-        <dl>
+        <dl class="d-none d-sm-block">
             {{ with .GetTerms "tags" }}
                 {{ partial "taxonomy/tags.html" . }}
             {{ end }}
@@ -30,6 +30,44 @@
                 <dd>{{ i18n "reading_time_desc" .ReadingTime }}</dd>
             {{ end }}
         </dl>
+        <div class="d-sm-none row">
+            {{ with .GetTerms "tags" }}
+            <div class="col-2"><i class="fa-solid fa-tags"></i></div>
+            <div class="col-10">
+                {{- range $index, $el := . -}}
+                <span></span><a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+                {{- end -}}
+            </div>
+            {{ end }}
+            {{ with .GetTerms "authors" }}
+            <div class="col-2"><i class="fa-solid fa-pen-nib"></i></div>
+            <div class="col-10">
+                {{- range $index, $el := . -}}
+                <span></span><a href="{{ .RelPermalink }}">{{- .LinkTitle -}}</a>
+                {{- end -}}
+            </div>
+            {{ end }}
+            {{ with .GetTerms "categories" }}
+            <div class="col-2"><i class="fa-solid fa-icons"></i></div>
+            <div class="col-10">
+                {{- range $index, $el := . -}}
+                <span></span>
+                <a href="{{ .RelPermalink }}">{{- .LinkTitle -}}</a>
+                {{- end -}}
+            </div>
+            {{ end }}
+            {{ if .Site.Params.published | default true }}
+            <div class="col-2"><i class="fa-regular fa-calendar-plus"></i></div>
+            <div class="col-10">
+                {{ $formattedDate := .Date.Format "2006-01-02" }}
+                <time datetime="{{ $formattedDate }}">{{ .Date | time.Format ":date_long" }}</time>
+            </div>
+            {{ end }}
+            {{ if .Site.Params.readingTime | default true }}
+                <div class="col-2"><i class="fa-solid fa-stopwatch"></i></div>
+                <div class="col-10">{{ i18n "reading_time_desc" .ReadingTime }}</div>
+            {{ end }}
+        </div>
     </section>
     {{ end }}
     <div>
