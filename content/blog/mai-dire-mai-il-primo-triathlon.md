@@ -15,7 +15,7 @@ Accidentalmente in primavera, ponte del 25 aprile, c'era in programma il ChiaTri
 
 Avevo tre mesi pieni per imparare a nuotare decentemente per 1500 metri, e per familiarizzare un po' con le bici da corsa. La bici della gara, un "muletto" gentilmente offerto dall'amico Stefano, l'avrei "conosciuta" solo il giorno della gara stessa o al più quello prima, per un giretto esplorativo del percorso.  
 I 40 chilometri di bici mi spaventavano sicuramente meno, mi era capitato di farne anche più del doppio pur non andando abitualmente a fare uscite in bici da corsa.  
-E poi puntavo tutto sul tratto finale, i 10 chilometri di corsa, ma ci si doveva arrivare.  
+E poi puntavo tutto sull'ultima frazione, i 10 chilometri di corsa, ma ci si doveva arrivare.  
 Questo è il triathlon Olimpico, la seconda "taglia" standard per lunghezza, l'unica che viene fatta, pensa un po', alle olimpiadi.  
 La prima, lo "Sprint", ha tutte frazioni lunghe la metà. Avrei potuto iniziare con quello? E invece.
 
