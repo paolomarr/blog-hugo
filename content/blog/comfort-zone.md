@@ -15,7 +15,7 @@ tags:
 Il lucchetto si chiuse agevolmente, grazie alle due gocce di lubrificante che gli aveva dato nel pomeriggio.  
 Il suo presidio poteva cominciare.
 
----
+{{< section_separator >}}
 
 «Vedrai sarà facilissimo andare su. Lì dove sarai tu è come salire con una scaletta, un gioco da ragazzi».  
 Stromboli lo aveva rassicurato così la sera prima, quando a sua sorpresa si era deciso che sarebbe stato tra gli otto che andavano su.  
@@ -28,12 +28,12 @@ Adesso guardava con attenzione tra le feritoie della cancellata, in attesa del s
 `16:00`.  
 Quasi sorpreso dalla puntualità degli eventi che il gruppo aveva programmato cosi' nel dettaglio nelle settimane precedenti, all'improvviso vide che i fumogeni erano stati accesi. Il segnale.
 
----
+{{< section_separator >}}
 
 Quella mattina sul suo letto c'erano una serie di oggetti alquanto insoliti. Il telo mare nero, un po' logoro, vecchio di anni, era forse la cosa meno strana. Sopra il telo, disteso sul copriletto, c'erano: il suo zaino più grande; due catene, una di due e l'altra di un metro; due lucchetti, uno con un simbolo di una clessidra inscritta in un cerchio; un pannolone; una felpa; una coperta; una borraccia; un contenitore con del cibo.  
 Ad eccezione della catena corta e del pannolone, era riuscito a mettere tutta quell'attrezzatura da escursione alternativa dentro il capiente zaino, che era diventato discretamente pesante.
 
----
+{{< section_separator >}}
 
 Si alzò rapidamente dalla panchina, quasi dimenticandosi di non essersi sfilato lo zaino quando si era seduto.  
 Ora l'adrenalina gli faceva sembrare lo zaino molto leggero. Anche la bandiera che sporgeva dalla zip dell'apertura principale non era più tra i suoi pensieri.  
@@ -49,18 +49,18 @@ Infilò di nuovo la mano sinistra nello zaino, tirando fuori il resto della cate
 
 *Click.*
 
----
+{{< section_separator >}}
 
 «Quelli che non sono sicuri di poter rimanere a oltranza è meglio che si posizionino sotto». Così il gruppo aveva deciso, la sera prima, determinando chi tra gli/le Alto Rischio sarebbe salita sulle colonne e chi invece sarebbe rimasta incollata a uno dei due lampioni che stanno di fronte alla cancellata. Fu lì che scopri quindi che non avrebbe dovuto aver a che fare con la colla, cosa che lo inquietava un po', ma che in compenso sarebbe stato molto più esposto dal punto di vista del rischio e anche della visibilità mediatica. Aveva dato disponibilità per entrambi i ruoli ma non era abituato ai cambi di programma improvvisi. Gli ci volle un momento per interiorizzare la cosa, ma alla fine si convinse che lo poteva fare.
 
----
+{{< section_separator >}}
 
 Proprio di fronte alla sua colonna c'era il lampione 2. Prima ancora che iniziasse a salire aveva visto Tillandsia già seduta alla base del lampione, intenta a spalmarsi la super colla sul palmo della mano sinistra. Nel tempo che aveva impiegato ad arrampicarsi e legarsi, i e le ribelli del lampione erano già incollati e incatenati (nel caso la colla fallisse) e si stavano preparando a trascorrere un po' di tempo in quella posizione. Da lassù vedeva solo Merry e Tillandsia. Ulisse era sul lato opposto della base del lampione, completamente nascosta alla sua vista.
 
 Il panorama da lassù era notevole. La piazza sembrava ancora più grande che da terra. Dall'altro lato, il die-in che era iniziato con i fumogeni, l'elemento di facciata, diversivo per l'azione, stava andando avanti. Le Red Rebels erano già entrate in scena e si stavano spostando con i loro movimenti lenti e fluidi tra i corpi distesi a terra, fintamente morti.  
 Guardò prima a sinistra, poi a destra. Sia Gaia che Kurt si erano legati e appostati sulle colonne adiacenti. Più oltre, alla sua destra, Gloria e Harry sedevano fieri sotto i rispettivi cavalli di bronzo delle colonne centrali, che delimitavano l'apertura centrale della cancellata. Le loro bandiere con l'asta lunga erano già erette, appoggiate ai rispettivi cavalli.
 
----
+{{< section_separator >}}
 
 `16:05`.  
 I loro timori di reazioni immediate della Polizia si erano rivelati eccessivi. Forse il diversivo del die-in, forse il fatto che la zona colonne era molto distante da quella della manifestazione, ma i tutori dell'ordine sembravano non essersi accorti di loro, fino a quel momento. Ora scorgeva Stromboli e Leila, i delegati a parlare con la Polizia, che si erano avvicinati al gruppo di forze dell'ordine appostato come sempre davanti al palazzo del Consiglio Regionale. Tutto sembrava abbastanza tranquillo.
@@ -71,7 +71,7 @@ Dopo qualche secondo, arrivò puntuale il segnale che doveva far terminare il di
 
 Ora l'azione era ufficialmente cominciata, le danze erano aperte.
 
----
+{{< section_separator >}}
 
 `16:20`.  
 Anche il più pessimistico degli scenari che si erano immaginati non prevedeva che sarebbe accaduto così presto. Vide avvicinarsi Stromboli e Leila, insieme a una faccia sconosciuta ma dall'aspetto difficilmente equivocabile. Il poliziotto in borghese arrivò fin sotto alla sua colonna, in modo che lui potesse sentire chiaramente quello che stava per dirgli. «Per questioni di sicurezza non posso farvi restare. Dovete scendere subito.». Ripensò velocemente all'obiettivo dell'azione: rimanere lì fintanto che le persone che avevano invitato a presentarsi in piazza quel giorno non fossero venute ad ascoltare e impegnarsi a valutare le loro richieste. – No, – si disse, – non è ancora arrivato il momento di scendere. – Ma evitò di esternare questo pensiero, non era necessario rispondere in quel frangente.
@@ -79,7 +79,7 @@ Anche il più pessimistico degli scenari che si erano immaginati non prevedeva c
 `16:30`.  
 Le Red Rebels avevano continuato nella loro danza all'interno della piazza. Ora si stavano avvicinando alla sua zona. Tra le cinque maestose figure c'era Lei, ma la distanza, i vestiti identici, le mascherine e il trucco bianco in faccia rendevano quasi impossibile capire chi Lei fosse nel gruppo. Poi vide un punto distintivo: le scarpe che sporgevano dai vestiti rossi che arrivavano alle caviglie. Quelle le poteva riconoscere. Le vide, scamosciate con il tacco, nessun dubbio. Il gruppo aveva appena finito di rendere omaggio a Gaia, davanti alla colonna alla sua sinistra, e si stava avvicinando alla sua. Lei era la quarta. Salutò le prime tre, ricambiando i loro ossequi silenziosi con un inchino, e poi incrociò lo sguardo di Lei. Fu lì che l'emozione accumulata, non più trattenuta dall'adrenalina che stava ormai scemando, lo fece commuovere di fronte ai semplici quanto maestosi gesti che Lei, tutte loro, stavano facendo.
 
----
+{{< section_separator >}}
 
 "*Narrativa (narrazione)*. In diplomatica, formula del documento (lat. *narratio*) contenente l’esposizione delle circostanze generali o particolari che hanno dato origine al documento stesso."
 
@@ -88,7 +88,7 @@ L'invito non era solo retorico ma decisamente formale: il giorno prima Ciccio, T
 Adesso il loro intento era esplicito: non sarebbero scesi, non si sarebbero slegate fintanto che i direttori non si fossero presentati e avessero preso in carico le loro richieste.  
 Sapevano che il loro era un obiettivo veramente ambizioso. Ma uno dei loro principi guida diceva: "ci concentriamo su ciò che è necessario". "Necessario" non necessariamente implica "facile", o "politicamente fattibile". La salvezza della società dal possibile collasso era la loro priorità.
 
----
+{{< section_separator >}}
 
 `17:00`.  
 Quell'ultima mezz'ora era passata in fretta, almeno così gli era sembrato.  
@@ -104,7 +104,7 @@ Degli scenari possibili che avevano elaborato, questo era secondo lui il meno pr
 In ogni caso, nulla era ancora stato ottenuto: i responsabili dei giornali dovevano venire e accogliere le richieste.  
 Nel frattempo, la cassa che amplificava i cori e i discorsi proposti dagli amici e amiche ribelli nei giorni precedenti era giunta vicino al palo 2, proprio sotto di lui.
 
----
+{{< section_separator >}}
 
 «Siamo nel mezzo di una crisi planetaria: crisi climatica, crisi ecologica, crisi sociale, crisi migratoria, crisi economica, ingiustizia globale, patriarcato, razzismo e pandemia sono tutti aspetti interconnessi e conseguenze di un sistema tossico che ci sta uccidendo.»  
 Così Ulisse aveva iniziato il suo discorso, con la voce a tratti incerta per l'emozione e la tensione accumulata in quelle due ore passate incollata al palo.  
@@ -113,7 +113,7 @@ Quel giorno, lui e tutti e tutte le ribelli lì presenti, per la prima volta sta
 Ulisse continuò con l'appello alla stampa e ai media, una richiesta disperata di aiuto per spingere i decisori, politici e istituzioni, a dire la verità e ad agire per cercare di limitare i danni.  
 «Perché se ci ribelliamo potremo anche perdere ma se non lo facciamo abbiamo già perso.» Chiusura secca ma d'effetto, pensò. «Siamo la Natura che difende se stessa.»
 
----
+{{< section_separator >}}
 
 «Eri bellissima. Eravate bellissime.»   
 Da tempo Lei era ormai uscita di scena, insieme alle altre Red Rebels, per andare a cambiarsi e ripresentarsi ora in abiti "civili". «Abbiamo attirato l'attenzione, ci hanno fatto un sacco di foto!»  
@@ -124,7 +124,7 @@ I costumi erano stati confezionati a regola d'arte da Calipso, la più esperta c
 «Dipende, vediamo intanto se viene davvero. E poi sarà da vedere come recepisce le richieste.»  
 Però in fondo lui ci sperava, in quell'arrivo inatteso. Le minacce della Polizia non lo avevano lasciato completamente indifferente. La trattativa si era tranquillizzata da quando era giunta la notizia che il capo redattore sarebbe venuto. Sembrava che avessero ottenuto la concessione di rimanere lì fino all'incontro. Dopo di che i tutori dell'ordine sarebbero probabilmente tornati ad incalzare, rinforzando le promesse di ripercussioni sempre più aspre.
 
----
+{{< section_separator >}}
 
 `19:00`.  
 Il sole era ormai da un po' calato dietro al palazzo della Regione, ma la piazza era ancora sufficientemente luminosa.  

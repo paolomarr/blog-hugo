@@ -11,7 +11,7 @@ Come sempre il confronto con la realtà gli aveva dato il suo amichevole schiaff
 Ma il motivo della sveglia e la meta del viaggio erano decisamente un ottimo analgesico. La sua Bella lo aspettava sull'Isola, insieme a un ben collaudato set di meraviglie paesaggistiche, climatiche e gastronomiche, oltre al caloroso affetto della famiglia acquisita.  
 Con sua grande sorpresa in meno di 20 minuti si ritrovava sulla porta di casa, pronto a uscire. Un ultimo controllo (il quinto) di avere preso le chiavi e di non stare per chiudersi irrimediabilmente fuori, e poi giù verso il primo segmento del breve viaggio. 
 
----
+{{< section_separator >}}
 
 Aveva messo la sveglia alle 7. Ma come spesso le accadeva quando era in vacanza, rilassata, senza la stanchezza e il pensiero dei mostriciattoli che l'aspettavano chiassosi seduti, si fa per dire, ai loro banchi, il suo cervello non ne voleva sapere di dormire più del minimo indispensabile e alle 6 era già attivo.
 
@@ -20,7 +20,7 @@ Le vacanze per lei erano iniziate già da qualche settimana, ma oggi era comunqu
 Prima di alzarsi, vista l'ora presta, decise di concedersi 10 minuti di pubbliche relazioni sullo smartphone. Probabilmente lui le aveva già scritto, anzi si sarebbe preoccupata se non avesse avuto notizie.  
 C'erano suoi messaggi. Ok si era svegliato. 
 
----
+{{< section_separator >}}
 
 «Iniziano le avventure» il primo messaggio era un po' preoccupante. Talvolta era difficile cogliere la sua ironia, ancora di più se fatta con un testo scritto.  
 «Google diceva che avrei potuto prendere la metro e arrivare con calma al bus per l'aeroporto. Il confronto con la realtà mi ha fatto scoprire che fino alle 5.30 la metro non si sveglia. Ho preso un car sharing fino alla fermata bus. 4,03 euro per fare tre chilometri con una smart. Secondo me un dragster avrebbe consumato meno in benzina.» Anche se non le era del tutto chiaro cosa fosse un dragster, l'ultimo paradosso le strappò un sorriso e le tolse gli ultimi scampoli del torpore mattutino.

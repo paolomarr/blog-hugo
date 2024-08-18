@@ -6,16 +6,15 @@ summary: |
 tags: 
 - racconti
 - distopia
+autonumbering: true
 ---
 
 
-## [1]
+##
 Per più di mezz'ora Magnus era rimasto a fissare fuori dal vetro blindato della finestra, immobile, le zampe anteriori sul davanzale, le lunghe orecchie ritte protese in avanti. Poi all'improvviso aveva cominciato ad abbaiare. Non abbaiava mai senza motivo, per questo Lucy adesso iniziava seriamente a preoccuparsi. Karl era uscito solo quattro ore prima, difficilmente sarebbe rientrato a breve. Avrebbe dovuto gestire la situazione da sola, con l'aiuto del fedele amico Magnus.
 Mise istintivamente la mano nella tasca della vestaglia, per assicurarsi che il mazzo delle chiavi importanti della casa fosse lì dove lo teneva sempre. Non lo lasciava mai in giro. Ora doveva salire al piano di sopra e aprire il lucchetto dell'armadio delle armi.
 
----
-
-## [2]
+## 
 Quel cervo lo stava facendo dannare. L'aveva scorto quasi subito, nemmeno un'ora dopo essere uscito di casa, e fin da subito aveva intuito che non sarebbe stata una preda facile. Era giovane, tre anni al massimo, e in splendida forma. Lucy si sarebbe dovuta impegnare per trasformare quel fascio di muscoli in un tenero e gustoso spezzatino. Ma, considerando da quanto tempo non vedevano della selvaggina, difficilmente qualcuno dei due si sarebbe lamentato se non fosse venuto cotto alla perfezione. Di certo Magnus non avrebbe avuto da ridire nel ripulirne le ossa.
 Ma prima doveva prenderlo. La bestia sembrava resistere ancora bene alla pressione dell'inseguimento e per ora non dava segni di cedimento. Karl era abituato a macinare chilometri, ma da quando aveva passato i quarant'anni le battute di caccia si facevano sempre più faticose. 
 Talvolta Jonas lo accompagnava. Alla sua età Karl aveva fatto la sua prima "100km del Passatore", una gara podistica che tagliava gli Appennini del Centro Italia da Ovest a Est. Un sorriso amaro gli si tese a un lato della bocca, a ripensare a un'epoca così vicina ma che sembrava così lontana, in cui la società poteva permettersi lussi spensierati come le gare podistiche.
@@ -25,7 +24,7 @@ In ogni caso Karl era ancora fiducioso delle proprie risorse e sapeva che a brev
 Questo era l'obiettivo di Karl, in generale sempre nelle sue battute di caccia. Difficilmente riusciva ad avvicinarsi furtivamente alla preda, abbastanza da poterla colpire senza che si accorgesse di lui.
 Per accelerare il processo aveva con sé il suo fedele arco e le frecce che si era fabbricato nelle settimane precedenti. Ma doveva comunque avvicinarsi alla bestia, che per ora riusciva a mantenere una buona distanza di sicurezza.
 
----
+{{< section_separator >}}
 
 Ricordava perfettamente la prima volta che aveva imbracciato un fucile. Erano passati diciassette anni. 
 Aveva iniziato con una pistola. Non ricordava il modello, ma a parte l'impatto iniziale con il frastuono e il rinculo, constatò subito che sparare era meno spaventoso di quanto sembrava. Non oppose quindi resistenza quando, dopo aver svuotato qualche caricatore (quella pistola aveva 13 colpi, quello se lo ricordava), Karl le propose di passare al fucile. Se l'obiettivo era imparare a difendere delle mura da minacce esterne, il fucile offriva indubbi vantaggi tattici, ma richiedeva più tempo di addestramento e continuo allenamento.
@@ -37,29 +36,25 @@ Karl ormai da qualche anno era sicuro che si sarebbe presto arrivati a quella si
 
 Passarono meno di trenta secondi dal momento in cui girò la chiave per aprire il lucchetto dell'armadio a quando appoggiò la canna del fucile, caricato in tempo record, sul bordo inferiore della finestrella che dava sul lato est della casa, quello su cui si affacciava la finestra alla quale Magnus stava ancora abbaiando.
 
----
-
-## [3]
+## 
 Da una buona mezz'ora si era accorto di guadagnare terreno sul cervo. La bestia si fermava sempre più spesso, volgendo lo sguardo terrorizzato verso di lui. Le narici frementi tradivano la fame d'aria fresca che il corpo dell'animale sentiva venir meno a ogni ulteriore passo. Quella zona della valle era abbastanza pianeggiante. Questo avvantaggiava Karl, le cui gambe erano molto meno efficienti nello scalare i pendii montani di quanto non lo fossero le quattro zampe munite di zoccoli della sua preda.
 Si fermò di nuovo. Questa volta non volse lo sguardo diretto a lui, ma puntò invece verso la parete a Nord della valle e rimase a fissare per qualche secondo. La vista di Karl era sempre stata ottima. Aveva iniziato a cedere un po' sulle cose vicine, se ne era accorto nelle sere precedenti, quando era in casa intento a fabbricare il set di frecce che aveva sulle spalle. Ma da lontano era ancora formidabile. Gli ci volle comunque qualche secondo per capire quale fosse la nuova preoccupazione del cervo. Lo vide quando riprese a muoversi, trottando sicuro e inesorabile in direzione della loro preda comune. «Dannazione» l'esclamazione gli uscì dalla bocca, sfuggita al flusso dei pensieri. Quindi era vero, i lupi erano riusciti a scavallare il versante del Kogel e ad insediarsi nella loro valle. Si prese ancora qualche secondo di pausa, per verificare una cosa fondamentale: era il proverbiale "lupo solitario", o sparsi tra gli alberi nelle vicinanze c'erano i suoi compagni di caccia del branco? Se così fosse stato a Karl non restava che girare i tacchi e tornare a casa, quasi certamente a mani vuote a meno di non incontrare un'altra sfortunata preda nel tragitto di rientro. 
 No, sembrava solo. Un solo lupo lo poteva affrontare. Con buona probabilità l'animale avrebbe avuto più paura di lui e sarebbe rimasto alla larga, a patto che lui fosse riuscito a raggiungere la preda per primo.
 Cosa tutt'altro che scontata, visto il passo sicuro e spedito del suo rivale.
 
----
+{{< section_separator >}}
 
 Erano in due. Li aveva visti affacciarsi leggermente al cancello, da dietro la recinzione coperta dalle siepi. Uno era un ragazzo, sembrava molto giovane, più di Jonas; dell'altro aveva visto una barba grigia, poteva essere dell'età di Karl. Non avrebbero tentato di scavalcare su quel lato, sapendo che offriva la visuale migliore dall'interno della casa. Probabilmente erano armati, visto che non se ne erano ancora andati dopo aver sentito le minacce di Magnus. Questo era il motivo per cui il cane doveva stare in casa, quando non usciva insieme ai suoi padroni: fuori sarebbe stato un bersaglio facile, ed era una risorsa troppo preziosa per rischiare di perderla così facilmente. Affrontarlo nelle strette mura domestiche sarebbe stato uno scontro impegnativo per chiunque, con o senza piombo in canna.
 Dopo quell'apparizione al cancello non li aveva più visti. Erano passati dieci minuti. Probabilmente si erano spostati sul lato Nord, dove la casa non aveva finestre e potevano quindi provare a scavalcare rete e filo spinato senza paura di essere impallinati.
 Avrebbe potuto spostarsi in camera da letto, che dava sul lato Nord, e togliere i due mattoni rimovibili che Karl aveva predisposto per situazioni come quella. Ma preferiva mantenere la posizione, su quel lato della casa che aveva anche l'unica porta di accesso dall'esterno. Se avessero scavalcato sarebbero comunque dovuti passare da lì e li avrebbe senz'altro visti.
 
----
-
-## [4]
+## 
 “Niente da fare, ci arriva prima lui”. Karl era finalmente arrivato a questa triste conclusione. Aveva provato ad accelerare la sua corsa, ma sapeva di non poter forzare troppo il passo: doveva conservare forze e lucidità non solo per fare il tragitto di ritorno con diverse decine di chili in più sulle spalle (tutti quelli che sarebbe riuscito a portare, il resto del cervo l'avrebbe lasciato in dono al bosco), ma adesso doveva mettere in conto una possibile "discussione" con il lupo. E magari gli imprevisti non erano finiti. 
 Il lupo evidentemente non aveva bisogno di fare questi ragionamenti strategici. Continuava imperterrito a guadagnare terreno sulla preda. Karl era sicuro che si fosse accorto di lui, ma la cosa non sembrava disturbarlo troppo. Lo indispettiva la sfrontatezza con cui l'animale gli stava soffiando la cena delle sue prossime settimane. 
 Doveva lavorare di astuzia. Sicuramente al predatore ci sarebbe voluto un po' di tempo per uccidere il cervo, per quanto avesse potuto sfiancarlo nell'inseguimento. Questo permetteva a Karl di arrivare in tempo al punto di incontro, forse addirittura prima che le zanne del canide incontrassero il collo della vittima. Poteva pensare di far fare parte del lavoro al rivale cacciatore, poi sul più bello allontanarlo in qualche modo e raccogliere la parte che gli spettava. 
 L'unica arma da fuoco che si portava dietro quando usciva a caccia era la Px4 compact, poco ingombrante ma letale a sufficienza per i possibili incontri indesiderati. Ma avrebbe fatto di tutto per evitare di usarla. Come ripeteva continuamente a Lucy, i proiettili erano troppo preziosi per essere sprecati.
 
----
+{{< section_separator >}}
 
 «Non sprecare proiettili, spara solo se devi e se sei sicura di colpire». Karl glielo ripeteva sempre, fin dalle prime lezioni al poligono, quando lei tendeva a farsi prendere la mano, anzi il dito del grilletto, in un'epoca in cui ancora i proiettili si trovavano senza troppa fatica. Costavano cari, sì, ma per fortuna la loro vita di risparmi aveva permesso loro di poter fare una bella scorta di quella merce che, Karl aveva previsto giusto anche questo, sarebbe diventata il nuovo oro, di lì a qualche anno.
 
@@ -70,27 +65,23 @@ BANG! Dopo soli due passi del ragazzo Lucy premette il grilletto senza esitare: 
 Adesso Lucy aveva un problema. Con ogni probabilità il ragazzo aveva qualche strumento per aprire la porta con relativa facilità, possibilmente dell'esplosivo. Allo stesso tempo non doveva perdere di vista il regista dell'assalto, ovvero il compagno "diversamente giovane". Se fosse spuntato da dietro l'angolo, Lucy non avrebbe di nuovo esitato a premere il grilletto, ma questa volta dal suo fucile sarebbe uscito un proiettile vero.
 La presenza del ragazzo sotto i suoi piedi le rendeva difficile concentrarsi sul punto di mira in cui si aspettava di veder comparire il bersaglio. Magnus, folle di rabbia, piantonava la porta e abbaiava all'impazzata. Questo era un problema. Karl non era mai riuscito ad insegnargli a piantonare la porta a debita distanza. Se, come Lucy temeva, ci fosse stata un'esplosione, il povero animale sarebbe stato messo fuori gioco ancor prima di poter vedere in faccia il suo prossimo spuntino.
 
----
-
-## [5]
+## 
 Ormai il cervo non si muoveva praticamente più. Il lupo era a poche centinaia di metri da lui, ma Karl li avrebbe raggiunti nel giro di pochi minuti. Con una mano estrasse una boccetta dalla tasca laterale dello zaino. Dall'altro lato tirò fuori un rotolo di garza. Mentre camminava passò vicino a un albero con i rami bassi rinsecchiti e ne spezzò uno. Avvolse la garza intorno al ramo e vi versò su parte del contenuto della boccetta. La torcia era pronta ma l'avrebbe accesa solo quando si sarebbe trovato in prossimità del lupo, sperando in un minimo di effetto a sorpresa.
 Nel frattempo l'altro cacciatore aveva iniziato l'approccio alla preda. Questa era ormai pronta allo scontro corpo a corpo e si assicurava di mantenere la fronte, e quindi la sua unica arma ovvero le corna, in direzione del nemico ormai vicinissimo.
 Sapendo quanto fosse importante mostrare sicurezza di fronte a un simile avversario, Karl decise di percorrere correndo a passi pesanti le ultime decine di metri che lo separavano dai duellanti. Con l'accendino già preparato nella mano non impegnata, accese la torcia poco prima di arrivare a chiudere quello che ormai era diventato un trio. Come videro le fiamme divampare le due bestie si spaventarono. Il cervo, praticamente impossibilitato a compiere movimenti veloci, iniziò a indietreggiare nella sola direzione che gli permetteva di allontanarsi da entrambi gli assalitori. Il lupo, ugualmente spaventato, potè invece guadagnare qualche decina di metri in più e andò a piazzarsi in un punto un po' più elevato, quasi avesse ragionato di guadagnare una posizione vantaggiosa per tenere sotto controllo la scena.
 Karl registrò la cosa, ma subito passò a concentrarsi sull'obiettivo primario della giornata. Non poteva permettere al cervo di riprendere fiato, doveva finirlo subito. Conficcò nel terreno fangoso la torcia di fortuna, in modo che rimanesse come monito, nel caso il lupo pensasse di ritornare e in una frazione di secondo si trovò con l'arco in mano teso e pronto a scoccare. Come molti erbivori, il cervo aveva occhi distanti che gli permettevano una più ampia vista periferica, ma per avere il massimo del fuoco sul nemico era costretto a girare di tanto in tanto la testa, scoprendo il collo alla vista dell'avversario che lo fronteggiava. Per Karl, forte di anni di esperienza maturata proprio in quei boschi con prede simili, fu un lavoretto semplice e la prima freccia andò subito a incontrare il collo dell'animale che cadde dopo pochi istanti.
 
----
+{{< section_separator >}}
 
 «MAGNUS, RESTA!». Lucy provò un disperato tentativo di far ragionare l'animale. Magnus smise di abbaiare. Forse aveva funzionato, impossibile per Lucy dirlo con certezza, dal piano di sopra. Non restava che sperare che si fosse allontanato dalla porta, che fosse pazientemente seduto, a distanza, nell'attesa che il suo spuntino riuscisse finalmente ad aprirla. 
 Ora il silenzio era frastornante. Lucy sperava che questo giocasse a suo favore e che generasse un po' di ansia anche negli assalitori. Dopo poco il silenzio venne rotto da rumori metallici. Lucy valutò che il ragazzo stesse cercando di scassinare la porta, forse con un grimaldello. Se quelli erano i soli strumenti che i due si erano portati Lucy avrebbe potuto stare tranquilla. La porta era debitamente blindata, difficile forzarla o scassinarla in quel modo. Dopo poco i tentativi di scasso cessarono, e tornò il silenzio. Adesso l'ansia di Lucy iniziava a crescere. Mentre continuava a fissare dal mirino l'angolo Nord-Est, tendeva l'orecchio per cercare di capire cosa stesse facendo il ragazzo sotto di lei. Poi sentì un rumore che la fece sussultare: del nastro adesivo veniva srotolato. Questo significava una sola cosa: il ragazzo stava fissando dell'esplosivo sulla porta, in prossimità della serratura. Doveva allontanarsi da lì, rischiava che l'onda d'urto la stordisse temporaneamente. Non poteva permettersi di trovarsi con le orecchie fischianti e la vista annebbiata pochi istanti prima che gli aggressori varcassero l'uscio. Era certa che di lì a poco il vecchio balordo sarebbe spuntato da quel maledetto angolo, ma dovette a malincuore abbandonare la postazione.
 Aveva appena varcato la soglia della stanza che dava sulle scale verso il piano terra quando il boato dell'esplosione la investì. 
 
----
-
-## [6]
+## 
 Lucy e Karl sarebbero stati sorpresi ed entusiasti di rivederlo così presto. Jonas aveva finito in anticipo il suo lavoro all'ecovillaggio. I volontari si erano presentati in gran numero, molto più di quanto previsto, e i lavori erano andati avanti a un ritmo incredibile. Le abitazioni erano praticamente pronte. Lui, Karl e Lucy avrebbero potuto trasferirsi in una di esse già alla fine di quell'inverno. 
 Era assorto a immaginare la scena al suo rientro a casa, magari avrebbe trovato i suoi genitori adottivi in un momento intimo in qualche posto insolito della casa, come altre volte era successo. Il sorriso malizioso che il pensiero gli procurava si spense bruscamente quando udì un rumore che aveva tutta l'aria di un'esplosione, smorzato da chissà quante centinaia di metri distanza. Per arrivare a casa gli mancavano forse due chilometri, una ventina di minuti al passo spensierato che aveva tenuto fino a quel momento. La direzione di provenienza del boato sembrava molto prossima a quella della sua destinazione. Non c'erano altre case nei dintorni, il che lo portava a temere il peggio. Iniziò a correre, maledicendo Karl e la sua assurda passione per quello stupido esercizio fisico.
 
----
+{{< section_separator >}}
 
 Proprio mentre il cervo toccava terra un rumore secco, lontano, come di uno sparo, gli arrivò alle spalle, proveniente dal fondo valle. Era la direzione di casa, ma era difficile per Karl stabilire quanto potente fosse l'esplosione originale e quindi quanto distante da lui fosse l'origine di quell'evento. In ogni caso era meglio affrettarsi e tornare a casa con il bottino, ad assicurarsi che Lucy e Magnus stessero bene.
 Le sorprese non erano finite. L'eco del rumore di sparo stava ancora rimbalzando nella valle quando l'amico lupo iniziò uno straziante ululato. Sembrava come se il cervo fosse stato in realtà un membro della sua cucciolata, tale era il dolore che emanava quel grido selvaggio.
@@ -103,22 +94,22 @@ In pochi ulteriori minuti Karl aveva sezionato opportunamente la carcassa e avev
 «Spiacente lupi, ma non mi posso fermare per cena» disse quasi tra sé. Come se li avesse chiamati a gran voce, un attimo dopo li vide spuntare dalla cresta rocciosa che stava a metà della parete Nord della valle, a poche centinaia di metri più su rispetto a dove si trovava lui. Ne vide sei, ma potevano essere di più.
 Il sacco era già sulle sue spalle, era il momento di ripartire. Prese la torcia, la puntò per un attimo al lupo che dopo l'ululato-richiamo era rimasto, quasi incuriosito, ad osservare Karl nelle sue operazioni da macellaio. «Godetevi la cena e statemi alla larga». Si congedò così, sperando nella proverbiale intelligenza della specie Canis Lupus, e si avviò verso il fondo valle, sulla strada del ritorno.
 
----
+{{< section_separator >}}
 
 Andò a sbattere contro la parete laterale del vano scala. Non ci erano andati leggeri con l'esplosivo, di sicuro la porta non poteva aver retto un tale colpo. Sperava solo che Magnus si fosse piazzato abbastanza distante. Recuperò l'equilibrio e cominciò a scendere più in fretta che poteva. Il ragazzo probabilmente non era ancora entrato, a meno che non si fosse subito buttato nella nuvola di fumo causata dall'esplosione. Non sentiva rumori, a parte le ultime briciole di calcinacci che si staccavano dallo stipite e dalla parete che circondava la porta. Brutto segno. Se Magnus fosse stato operativo si sarebbe sentito. O meglio, si sarebbero sentite le grida della sua vittima.
 Superata la metà della scala potè finalmente valutare la scena del soggiorno. Vide subito Magnus, schiacciato contro la parete del sottoscala. Era sveglio, ma sembrava far fatica a rialzarsi. L'onda d'urto lo aveva sbattuto lontano dalla porta, proprio contro la parete opposta ad essa. La buona notizia era che il cane non era stato troppo vicino alla porta, altrimenti lo avrebbe trovato in tutt'altre condizioni, probabilmente sparso in più punti del soggiorno. Il dubbio su se e quando si sarebbe rialzato la angosciava, ma cercò di schiacciarlo in un angolo del cervello. Adesso era lei l'ultima difesa della casa, oltre ad essere probabilmente parte del bottino che gli assalitori speravano di raccogliere in quell'attacco.
 Come aveva previsto, il fumo annebbiava completamente la visuale della porta, o meglio del buco dove prima c'era stata una porta, e tantomeno si poteva vedere l'esterno. Il ragazzo avrebbe potuto essere già entrato ed essersi nascosto da qualche parte, aiutato dal fumo. Il fondo della scala era cieco e solo un lato era aperto e dava sul soggiorno. Lucy decise che la posizione in cui era, a metà scala, era la migliore per difendere sé stessa, l'abitazione e ciò che rimaneva di Magnus. Si appostò, fucile appoggiato sopra al mancorrente, e cercò di concentrarsi sul respiro e sul battito del proprio cuore. L'adrenalina era un altro di quegli artefatti evolutivi che aveva permesso all'uomo e a molte altre specie di sopravvivere a millenni di fughe da predatori e di lotte con altre specie, ma per un tiratore era più un fastidio che una risorsa.
 
----
+{{< section_separator >}}
 
 Le costole gli facevano un male cane. Cercava di tenere il peso del sacco spostato sulla spalla destra, per caricare maggiormente il lato sano del proprio corpo. I lupi si erano fiondati su quello che Karl aveva lasciato loro del cervo, probabilmente troppo affamati per ragionare lucidamente sull'opportunità di prendersi anche lui prima che fuggisse, per poi tornare con calma al banchetto di selvaggina. “Proiettili risparmiati”, pensò. Se lo avessero attaccato la pistola sarebbe stata la sua unica speranza di salvezza.
 Ora che la tensione dello scontro andava scemando, pensava al tragitto che lo separava da casa e al suo stato fisico. Ma poi gli tornò alla mente un pensiero ancora più preoccupante, che nella concitazione della cattura aveva temporaneamente messo da parte: l'esplosione che aveva sentito quando aveva abbattuto il cervo. Poteva tranquillamente provenire da casa. Se così fosse stato, lo aspettavano guai seri, da affrontare in pessime condizioni.
 
----
+{{< section_separator >}}
 
 La risalita verso casa non gli era mai sembrata così lunga e ripida. Da quando aveva iniziato a correre gli sembravano trascorse ore, ma ancora non scorgeva i sentieri e gli alberi a lui così familiari dei terreni circostanti la casa in cui aveva abitato fin dall'età di 4 anni. Poi, dopo una curva cieca sul sentiero, scorse una grossa quercia che conosceva bene. Da piccolo, nelle sue uscite con papà Karl, si spingeva spesso fino a lì. Lui adorava arrampicarsi sull'albero, più su che riusciva. Ora sapeva che casa era vicina. Al buon passo di corsa che aveva tenuto fin lì, sarebbe arrivato in pochi minuti. Doveva iniziare a pensare agli scenari che avrebbe potuto trovare.
 
----
+{{< section_separator >}}
 
 Lucy vide un'ombra passare nella nebbia attraverso la porta divelta. Il dubbio su quale dei due visitatori fosse le impediva di premere il grilletto con leggerezza. Anche perché sapeva che il colpo sarebbe andato a segno, su questo non aveva dubbi. Doveva mantenere la concentrazione e il controllo sulla scena. 
 Abbassò lo sguardo per controllare rapidamente le condizioni di Magnus. Per un attimo la sorpresa rischiò di farle perdere l'equilibrio e rotolare giù dalla scala: Magnus non era più dove l'aveva visto quando era parzialmente scesa, intento a far fermare le stelline che gli ruotavano sopra la testa. Volle pensare che fosse una buona notizia, anche se non sapeva dove fosse in quel momento la sua guardia del corpo. La risposta le giunse pochi istanti dopo dalla cucina: un urlo terrorizzato, di una voce giovane, prodotto da qualcuno che si era ritrovato all'improvviso con un arto stritolato nella morsa ineffabile di un pastore tedesco di cinquanta chili. “Per ora gli è andata bene”, pensò Lucy. Se Magnus avesse trovato subito la gola del ragazzo difficilmente sarebbe riuscito a produrre quelle urla strazianti.
@@ -130,11 +121,11 @@ Il fumo si stava diradando. Lucy decise di rimanere lì dov'era. Benché non ave
 In un angolo del soggiorno c'era uno specchio, di quelli alti stretti che si appoggiano al pavimento. Da dov'era posizionata non le serviva a granché, ma ricordava che quando si arrivava in fondo alla scala, dopo pochi passi laterali, nello specchio si vedeva perfettamente chi stava seduto sul divano. 
 Ora che aveva circoscritto l'area di tiro, poteva abbandonare la posizione rialzata e cercare di chiudere la partita. Iniziò a scendere a ritroso le scale, mantenendo sguardo e canna puntati verso la zona divano. Conosceva bene la scala, non aveva bisogno di guardare gli scalini. Ne mancavano quattro, quando il suo piede destro atterrò su qualcosa di inatteso, probabilmente un detrito dell'esplosione. Vacillò. Si affrettò a portare l'altra gamba sul sicuro appoggio dello scalino successivo, che per fortuna era libero da ostacoli. La manovra l'aveva costretta a distogliere lo sguardo dal bersaglio. Quando rialzò la testa fece appena in tempo a vedere sul lato destro del divano l'uomo che si era sporto e stava puntando la pistola esattamente nella sua direzione. Lucy stava cercando di riprendere l'equilibrio saldo su entrambi i piedi e riportare la propria arma sulla linea di tiro quando la pistola dell'altro sparò e un dolore tremendo le esplose nella spalla sinistra. Questa volta perse l'equilibrio e volò all'indietro, sbattendo schiena e testa sulla parete in fondo alla scala.
 
----
+{{< section_separator >}}
 
 Karl udì altri tre spari, due ravvicinati, l'altro dopo un paio di minuti. Ormai era certo che provenissero da casa. La vedeva già in lontananza, ma la prospettiva della valle era ingannevole e la faceva sembrare più vicina di quanto non fosse. Gli ci sarebbe voluto ancora un po', considerato il suo passo incerto. Sarebbe potuto arrivare a sipario ormai abbassato. L'angoscia al pensiero di Lucy da sola ad affrontare chissà quale minaccia lo spingeva ad accelerare il passo, ma ogni volta che provava ad allungare la falcata era come se qualcuno gli ruotasse una lama nel fianco. Le sue speranze erano riposte in Magnus e nelle assidue ore di allenamento al combattimento che lui e Lucy avevano trascorso nei mesi passati.
 
----
+{{< section_separator >}}
 
 Riprese i sensi quando si sentì trascinare per le gambe. La testa le scoppiava, era come se una morsa gliela stesse schiacciando tra la fronte e la nuca. A tenerle compagnia, quasi in un unico alone di dolore che scendeva giù per il collo, c'era la spalla colpita dal proiettile.
 Aprì con fatica gli occhi e finalmente riuscì a vedere bene in faccia il suo aggressore. Era alto, sul metro e novanta, fisico esile probabilmente provato da un'alimentazione scarsa e di fortuna. La barba grigia, che già Lucy aveva visto spuntare dal cancello, si accompagnava a capelli lunghi fino alle spalle, dello stesso colore, che non dovevano aver visto acqua e sapone da diverse settimane.
@@ -142,7 +133,7 @@ Lucy riusciva a stento a muoversi, non tentava nemmeno di svincolarsi dalla stre
 Era spacciata. Stava pensando a un modo per far sì che lui dovesse ucciderla subito, evitando lo spiacevole intermezzo. «Ecco brava, rimani calma. Adesso giochiamo un po', prima che torni Karl.» Quindi li conosceva, o almeno sapeva i loro nomi. Sentir nominare Karl scatenò la reazione di Lucy, che trovò la forza per scalciare con una gamba e liberarsi della presa di una mano dell'uomo. Ma quello aveva la situazione in pugno, letteralmente, e per calmarla ulteriormente le assesto un calcio sul fianco della gamba che aveva ancora in suo possesso. Questo spense le ultime misere speranze della donna. Con fare sorprendentemente agile e disinvolto, probabilmente non era la prima volta che compiva una simile impresa, il suo carnefice la voltò a faccia in giù e le abbassò i pantaloni e le mutandine. Ora non lo vedeva più, probabilmente si stava togliendo anche lui il minimo indispensabile per fare ciò che doveva. Lo sentì chinarsi su di lei, il suo fiato caldo e maleodorante sul collo. Poi sentì un sussulto inaspettato, come un colpo di tosse, e le parve che l'uomo si fosse irrigidito, come bloccato. Sentì del liquido caderle dietro al collo e dopo qualche istante la pressione che le teneva ferme gambe e braccia si allentò, e lo vide accasciarsi sul lato dove aveva volta la testa.
 Non se ne era andato di sua sponte: dalla gola dell'uomo usciva la punta di una lama. Quello che era gocciolato dietro al collo di Lucy era il suo sangue. La scarica di adrenalina che la svolta imprevista le aveva dato la fece voltare di scatto. Gli occhi velati di lacrime di disperazione non le permettevano di mettere a fuoco la figura che le tendeva la mano dal fondo dei suoi piedi. Si passò il braccio sugli occhi per asciugarsi le lacrime e infine lo vide. «JONAS!» Finalmente si fece tirare su dalle robuste braccia del ragazzo che la prese e la strinse forte a sé. «Mamma! Che diavolo è successo? Stai bene??». La donna scoppiò a piangere e tenne salda la presa per qualche secondo. Poi si ricordò di essere mezza nuda e si divincolò quasi bruscamente per rivestirsi.
 
----
+{{< section_separator >}}
 
 Il cancello era aperto, spalancato. “Iniziamo bene” pensò Karl. Era ovviamente una delle prime regole della casa, quella del cancello chiuso sempre, che doveva essere aperto solo per il minimo tempo indispensabile a passarci attraverso.
 Lasciò andare il carico di selvaggina, cosa che gli diede lo stesso sollievo di un pesante anti dolorifico, solo molto più immediato. Sfilò la pistola dalla fondina che aveva sul fianco della gamba e trovò la forza per correre verso casa. Mentre attraversava il cortile vide le ultime tracce del fumo dell'esplosione galleggiare all'altezza del primo piano. Abbassò lo sguardo e vide con sorpresa e sconforto che la porta non c'era più, rendendosi contò della gravità dell'assalto che avevano subito. Si sentì in colpa per non essere stato lì, per non essere riuscito a terminare prima la sua battuta di caccia e tornato in tempo per difendere il nido.

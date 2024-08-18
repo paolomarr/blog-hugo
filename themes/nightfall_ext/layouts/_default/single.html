@@ -70,7 +70,7 @@
         </div>
     </section>
     {{ end }}
-    <div>
+    <div class='post-content {{if .Param "autonumbering"}}autonumbering{{end}}'>
         {{ .Content }}
     </div>
 </div>
