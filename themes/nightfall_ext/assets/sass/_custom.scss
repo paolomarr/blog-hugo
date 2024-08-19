@@ -45,6 +45,9 @@ h4 {
     counter-reset: h5
 }
 
+.post-content p {
+    line-height: 1.9;
+}
 .post-content.autonumbering h2:before {
     counter-increment: h2;
     content: counter(h2) ". "
