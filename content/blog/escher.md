@@ -4,6 +4,8 @@ date: 2022-02-05
 tags:
 - appunti
 - viaggi
+summary: |
+  Una "banale" gita giornaliera per vedere una mostra capace di lasciare Paolo a bocca aperta.    
 ---
 
 Una "banale" gita giornaliera per vedere una mostra capace di lasciare Paolo a bocca aperta.  
