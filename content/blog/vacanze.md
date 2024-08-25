@@ -3,6 +3,8 @@ title: "Vacanze"
 date: "2020-07-30"
 tags:
     - incompleto
+summary: |
+    Come sempre il confronto con la realtà gli aveva dato il suo amichevole schiaffone e la sua abat-jour si era spenta alle 2. Lo stesso confronto con la realtà, quella di avere ormai abbondantemente superato i trenta, lo stava adesso prendendo selvaggiamente a pugni, insieme al mal di testa post-sbronza. 
 ---
 
 Soprassalto. La sveglia che aspettava da circa un anno e che allo stesso tempo temeva, avendola impostata poco meno di tre ore prima, gli stava come al solito sbriciolando irreversibilmente i sogni.  
