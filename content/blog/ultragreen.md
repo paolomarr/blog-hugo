@@ -2,12 +2,12 @@
 draft: true
 title: "Ultragreen"
 date: 2021-04-18
+summary: APPUNTI SPARSI
 tags:
 - distopia
 - racconti
 ---
 
-APPUNTI SPARSI
 regime mondiale eco-fascista. Soldati-milizie-polizia per le strade, con simbolo di partito stile svastica ma che richiama a qualcosa di ambientalista estremo
 gli eccessi: 
 - confisca di beni e proprietà legate ad attività a impatto climalterante (auto e tutti i mezzi a combustione, aziende, compagnie aeree, allevamenti intensivi, pescherecci); 

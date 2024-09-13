@@ -1,6 +1,7 @@
 ---
 draft: true
-title: "Belgio e Olanda in bici: resoconto di viaggio"
+title: "Belgio e Olanda in bici"
+subtitle: "Resoconto di viaggio"
 date: "2020-08-01"
 tags:
     - incompiuto
