@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Natale 2017
 summary: Quello che non ci diciamo
 tags:
