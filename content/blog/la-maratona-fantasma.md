@@ -7,6 +7,8 @@ tags:
 - corsa
 - maratone
 - Torino
+summary: |
+  E anche stavolta NON ho fatto la maratona di Torino. Ecco come sarebbe andata se l'avessi fatta. 
 ---
 
 L'ho sempre snobbata, la maratona della mia città.  
