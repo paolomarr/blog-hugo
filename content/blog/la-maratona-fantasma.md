@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Torino City Marathon 2024"
 subtitle: "Come non partecipare a una maratona"
 date: 2024-12-06
