@@ -23,6 +23,9 @@ params:
       url: "https://www.linkedin.com/in/paolo-marchetti-32678a42/"
 menu:
   header:
+  - name: About
+    weight: 0
+    url: "/about"
   - name: Blog
     weight: 0
     url: "/blog"    

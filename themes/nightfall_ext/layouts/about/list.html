@@ -1,0 +1,45 @@
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author.name }}
+{{ end }}
+
+{{ define "main" }}
+
+<div>
+    <div class="listHeader">
+        <h1>{{ .Title }}</h1>
+    </div>
+
+    {{ with .Content }}
+    <div class="listContent">
+        {{- . -}}
+    </div>
+    {{ end }}
+
+    <div>
+        {{ range .Pages }}
+
+        <div class="postListItem {{ if .Draft }}draft{{ end }}" role="listitem">
+        <!-- [html-validate-disable-next prefer-native-element] -->
+            <a class="postListLink" href="{{ .Permalink }}">
+                <div class="postHeader">
+                    <div class="row">
+                        <div class="col-9">
+                            <div class="postTitle">{{ .Title | markdownify }}</div>
+                            {{ with .Param "subtitle"}}
+                            <div class="postTitle subtitle">{{ . | markdownify }}</div>
+                            {{end}}
+                        </div>
+                    </div>
+                </div>
+                <div class="postExcerpt">
+                    <p>{{ .Summary }}</p>
+                </div>
+            </a>
+        </div>
+
+
+        {{end}}
+    </div>
+</div>
+
+{{ end }}

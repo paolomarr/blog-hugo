@@ -1,0 +1,83 @@
+fullname: Paolo Marchetti
+contacts: 
+  place: "Torino, Italy"
+  mobile: +39 3287448947
+  email: paolo.marchetti.it@gmail.com
+  linkedin: "https://www.linkedin.com/in/paolo-marchetti-32678a42"
+  github: "github.com/paolomarr"
+professional_summary: |
+  iOS Software Engineer and Full-Stack Developer with over a decade of experience building secure, scalable, and user-focused applications. Skilled in privacy-first mobile development, embedded systems, and full-stack web technologies. Passionate about applying technology to address critical global challenges such as climate change, responsible AI development, cyber resilience, and peacebuilding. Seeking to contribute to mission-driven teams tackling the world's most urgent issues through thoughtful engineering.
+work_experience:
+- title: iOS Software Engineer – Cybersecurity Suite
+  location: Torino, Italy
+  company: RCS ETM Sicurezza S.p.A.
+  date: Feb 2017 – Present
+  description: |
+    - Conduct R&D on iOS applications for cybersecurity.
+    - Lead the design and maintenance of CI/CD pipelines using GitLab, Jenkins, and Nexus.
+    - Collaborate with cross-department leadership to define shared goals and align engineering efforts.
+- title: "Founder & Full-Stack Web Developer"
+  company: ResConDA
+  location: Torino, Italy
+  date: Jan 2022 – Present
+  description: |
+    - Co-founded a non-profit promoting environmental and energy-related awareness.
+    - Developed and maintained the organization’s website using Hugo.
+    - Managed IT infrastructure and designed a multi-platform app for embedded energy accounting in grocery shopping.
+- title: Desktop and Embedded Application Developer (Freelance)
+  company: Skypull SA
+  location: Remote
+  date: Jan 2017 – Dec 2018
+  description: |
+    - Built a Qt-based desktop interface for renewable energy plant control.
+    - Developed firmware for Arduino embedded systems.
+- title: Embedded, Desktop, and Web Developer
+  company: VarCo S.r.l.
+  location: Torino, Italy
+  date: Jan 2011 – Dec 2016
+  description: |
+    - Created remote control software using Visual C++ for experimental electric plant (KiteGen).
+    - Designed embedded firmware for custom electronic hardware.
+    - Built and maintained corporate website and internal IT infrastructure.
+education:
+  - title: Master’s Degree in Fundamental Interactions Physics
+    school: Università degli Studi di Torino, Italy | 2010
+    grade: 110/110
+
+technical_skills:
+  Programming languages: Objective-C, Swift, Python, Go, PHP, HTML/CSS/JavaScript, Bash
+  Frameworks & Tools: Django, React, Flutter, Qt, Docker, Git, GitLab CI, GitHub Actions, Jenkins
+  Languages: Italian (native), English (C1), French (A2)
+
+projects_and_volunteer_experience:
+  - title: Full-Stack Web Developer (Volunteer)
+    company: Extinction Rebellion Italy
+    description: |
+      Developed and maintained [extinctionrebellion.it](https://extinctionrebellion.it).  
+      Supported infrastructure and DevOps using self-hosted GitLab and privacy-first tools.
+  - title: Co-Founder & Developer
+    company: ResConDA
+    description: |
+      Developed [resconda.it](https://resconda.it).  
+      Built an app to help users track embedded energy in consumer goods (beta release pending).
+    code: 
+      link: "https://github.com/resconda/resconda.it-hugo"
+      label: "resconda/resconda.it-hugo"
+      icon: "fa-brands fa-github"
+  - title: Personal Finance App
+    description: |
+      Created a personal finance tracking tool using Django and React.
+    code: 
+      link: "https://github.com/paolomarr/finanze-django"
+      label: "paolomarr/finanze-django"
+      icon: "fa-brands fa-github"
+  - title: Apple Devices DB Generator
+    description: |
+      Go utility for generating structured metadata on Apple hardware and iOS versions.
+    code: 
+      link: "https://github.com/paolomarr/Go-Apple-devices-db-generator"
+      label: "paolomarr/Go-Apple-devices-db-generator"
+      icon: "fa-brands fa-github"
+interests:
+  description: |
+    Environmental activism, climate and energy research, writing, endurance sports (running, cycling, swimming/triathlon)

@@ -1,7 +1,7 @@
 ---
 title: "Fatevi aiutare"
 date: 2021-12-14
-published: true
+# published: true
 summary: |
     Forse è giunto il momento che i signori e le signore consigliere ammettano di aver fallito nel loro compito di tutelare la popolazione e ascoltino il nostro appello di farsi aiutare dalla popolazione stessa, attraverso assemblee di cittadini.
 tags:
