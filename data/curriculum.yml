@@ -6,7 +6,7 @@ contacts:
   linkedin: "https://www.linkedin.com/in/paolo-marchetti-32678a42"
   github: "github.com/paolomarr"
 professional_summary: |
-  iOS Software Engineer and Full-Stack Developer with over a decade of experience building secure, scalable, and user-focused applications. Skilled in privacy-first mobile development, embedded systems, and full-stack web technologies. Passionate about applying technology to address critical global challenges such as climate change, responsible AI development, cyber resilience, and peacebuilding. Seeking to contribute to mission-driven teams tackling the world's most urgent issues through thoughtful engineering.
+  OS Software Engineer and Full-Stack Developer with over a decade of experience building secure, scalable, and user-focused applications. Skilled in privacy-first mobile development, embedded systems, and full-stack web technologies. Passionate about applying technology to address critical global challenges such as climate change, responsible AI development, cyber resilience, and peacebuilding.
 work_experience:
 - title: iOS Software Engineer – Cybersecurity Suite
   location: Torino, Italy
@@ -46,7 +46,7 @@ education:
 
 technical_skills:
   Programming languages: Objective-C, Swift, Python, Go, PHP, HTML/CSS/JavaScript, Bash
-  Frameworks & Tools: Django, React, Flutter, Qt, Docker, Git, GitLab CI, GitHub Actions, Jenkins
+  Frameworks & Tools: Django, React, Flutter, Qt, Docker, Git, GitLab CI, GitHub Actions, Jenkins, CryptoPP, Protocol Buffers
   Languages: Italian (native), English (C1), French (A2)
 
 projects_and_volunteer_experience:
