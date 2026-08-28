@@ -8,4 +8,5 @@ tags:
 - maratone
 ---
 
-_Data della gara: 03 dicembre 2023_
+_Data della gara: 03 dicembre 2023_.  
+_Tempo: 02h59:08_ 
